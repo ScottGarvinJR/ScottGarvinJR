@@ -2,7 +2,7 @@
 
 ## **Game Developer**
 
-- Graduated 2025 with an <span style="color: #2ECC71;">Associate degree in Game and Simulation Development: Programming </span>
+- Graduated 2025 with an Associate degree in Game and Simulation Development: Programming
 - Experienced in C++ for use in Visual Studio  
 - Experienced in Unreal Engine 5  
 
@@ -19,3 +19,4 @@
 
 ### :bar_chart: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ScottGarvinJR&theme=dark&background=000000)](https://git.io/streak-stats)
+
