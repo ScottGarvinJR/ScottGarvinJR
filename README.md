@@ -3,8 +3,8 @@
 ## **Game Developer**
 
 - Graduated 2025 with an Associate degree in Game and Simulation Development: Programming
-- Experienced in C++ for use in Visual Studio  
-- Experienced in Unreal Engine 5  
+- Experienced in C++ for use in Visual Studio
+- Experienced in Unreal Engine 5
 
 ---
 
